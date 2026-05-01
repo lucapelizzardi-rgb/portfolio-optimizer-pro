@@ -1,6 +1,0 @@
-# Sample benchmark CSV
-# Format: Date (YYYY-MM-DD) + one column per benchmark index
-# Supported: ^GSPC (S&P500), ^IXIC (Nasdaq), ^STOXX50E (EuroStoxx), VWCE.DE (MSCI World ETF)
-# Example:
-# Date,VWCE.DE,^GSPC,^IXIC,^STOXX50E
-# 2021-06-01,94.65,4297.5,14503.95,4064.30
